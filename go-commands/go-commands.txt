@@ -8,3 +8,18 @@ go run .
 > Add new modules requirements and sums
 go mod tidy
 
+> Replace a requirements with a local file for local usage
+go mod edit -replace example/greetings=../greetings
+
+> Launch tests in a folder (verbose)
+go test -v
+
+> Compile the code in the folder into an executable program
+go build
+
+> Compile and install the package in the folder
+go install
+
+> Note: installing require that you add the installation folder to system path. See:
+https://go.dev/doc/tutorial/compile-install
+

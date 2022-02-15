@@ -1,0 +1,5 @@
+
+
+> init() functions are executed automatically at program startup
+
+> functions that start with lowercase are not exported
