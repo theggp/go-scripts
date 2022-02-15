@@ -1,0 +1,10 @@
+
+> Creating a new module
+go mod init <module/module>
+
+> Run the main program
+go run .
+
+> Add new modules requirements and sums
+go mod tidy
+
