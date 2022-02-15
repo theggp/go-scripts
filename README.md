@@ -1,1 +1,3 @@
-# go tutorials and scripts
+# Go scripts
+
+Various go scripts and tutorials
