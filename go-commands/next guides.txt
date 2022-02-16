@@ -1,0 +1,14 @@
+> Effective Go
+https://go.dev/doc/effective_go#blank
+
+> Documentation
+https://go.dev/doc/
+
+> How to write Go Code
+https://go.dev/doc/code
+
+> Slices
+https://go.dev/blog/slices-intro
+
+> Maps
+https://go.dev/blog/maps
